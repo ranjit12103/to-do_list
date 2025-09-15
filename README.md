@@ -26,6 +26,7 @@ Simple and responsive web application to manage tasks: add, complete, and remove
 ## 🧰 Installation & Usage
 
 1. Clone the repository  
+
    ```bash
    git clone https://github.com/ranjit12103/to-do_list.git
 
@@ -33,18 +34,15 @@ Navigate into the project folder
 
 cd to-do_list
 
-
 Install dependencies
 
 npm install
-
 
 Start development server
 
 npm run dev
 
-
-Open browser at the URL shown in terminal (usually http://localhost:3000 or http://localhost:5173)
+Open browser at the URL shown in terminal (usually <http://localhost:3000> or <http://localhost:5173>)
 
 ✅ Project Status
 
